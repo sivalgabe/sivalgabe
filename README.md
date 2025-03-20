@@ -1,7 +1,7 @@
 Meu nome é Gabe, bem vindo ao meu Github! 👋
 
 ## 💻 Sobre mim  
-Estou em busca de um estágio para desenvolver meus conhecimentos e evoluir profissionalmente. Tenho me dedicado ao estudo de *desenvolvimento Android*, criando projetos práticos e explorando tecnologias como Kotlin e Jetpack Compose. 
+Estou em busca de um estágio para desenvolver meus conhecimentos e evoluir profissionalmente. Tenho me dedicado ao estudo de *desenvolvimento Android*, criando projetos práticos e explorando linguagens como Kotlin. 
 
 ## 🎓 Estudante de Engenharia de Software
 Desenvolvimento Android | Kotlin & Mobile
