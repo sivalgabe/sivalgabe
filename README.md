@@ -1,12 +1,15 @@
 Meu nome é Gabe, bem vindo ao meu Github! 👋
 
 ## 💻 Sobre mim  
-Estou em busca de um estágio para desenvolver meus conhecimentos e evoluir profissionalmente. Tenho me dedicado ao estudo de *desenvolvimento Android*, criando projetos práticos e explorando linguagens como Kotlin. 
+Estou em busca de um estágio para desenvolver meus conhecimentos e evoluir profissionalmente. Tenho me dedicado ao estudo de *Python* e *Desenvolvimento Android*, criando projetos práticos e explorando linguagens como Kotlin e Python. 
 
 ## 🎓 Estudante de Engenharia de Software
-Desenvolvimento Android | Kotlin & Mobile
+- Chatbot | Python
+- Desenvolvimento Android | Kotlin & Mobile
 
 ## 📂 Projetos em que contribuo
+- [Voz do Corrego Bot](https://github.com/sivalgabe/vozDoCorregoBot)
+- [Pantera Bot](https://github.com/sivalgabe/furiabot)
 - [NookApp](https://github.com/jennysival/NookApp)
 
 ## 📌 Local
